@@ -1,4 +1,6 @@
 #redis:7.4.1
-gcr.io/kaggle-gpu-images/python:latest
-pytorch/pytorch:2.2.1-cuda12.1-cudnn8-runtime
-pytorch/pytorch:2.4.0-cuda12.4-cudnn9-runtime
+#gcr.io/kaggle-gpu-images/python:latest
+#pytorch/pytorch:2.2.1-cuda12.1-cudnn8-runtime
+#pytorch/pytorch:2.4.0-cuda12.4-cudnn9-runtime
+hello-world
+pytorch/pytorch:latest
