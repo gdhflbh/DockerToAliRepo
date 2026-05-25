@@ -7,3 +7,6 @@ pytorch/pytorch:latest
 ubuntu
 python:latest
 ollama
+python:3.10-slim
+nvidia/cuda:11.7.1-cudnn8-runtime-ubuntu20.04
+gcr.io/kaggle-gpu-images/python:latest
